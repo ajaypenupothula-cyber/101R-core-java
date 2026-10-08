@@ -6,7 +6,7 @@ public class Bankprocesser {
 	    public static void main(String[] args) {
 
 	        // Creating BankAccount object
-	        BankAccount account = new BankAccount(1001, "Kishor", 5000.0);
+	        BankAccount account = new BankAccount(2529, "Ajay", 5000.0);
 
 	        System.out.println("Account number : " + account.getaccountnumber());
 	        System.out.println("Account Holder : " + account.getaccountholder());
